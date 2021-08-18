@@ -15,7 +15,7 @@
 [![Contributors](https://img.shields.io/github/contributors/SenuGamerBoy/Auto-Filter-v1?style=flat-square&color=green)](https://github.com/SenuGamerBoy/Auto-Filter-v1/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/SenuGamerBoy/Auto-Filter-v1/blob/main/LICENSE)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSenuGamerBoy%2FAuto-Filter-v1&count_bg=%2379C83D&title_bg=%23555555&icon=twoo.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
   </a>  
 </p>
 
