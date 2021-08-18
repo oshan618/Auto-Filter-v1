@@ -6,6 +6,18 @@
 
   </a>
   
+  [![Stars](https://img.shields.io/github/stars/enuGamerBoy/Auto-Filter-v1?style=flat-square&color=yellow)](https://github.com/enuGamerBoy/Auto-Filter-v1/stargazers)
+[![Forks](https://img.shields.io/github/forks/enuGamerBoy/Auto-Filter-v1?style=flat-square&color=orange)](https://github.com/enuGamerBoy/Auto-Filter-v1/fork)
+[![Size](https://img.shields.io/github/repo-size/SenuGamerBoy/Auto-Filter-v1?style=flat-square&color=green)](https://github.com/enuGamerBoy/Auto-Filter-v1)   
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/enuGamerBoy/Auto-Filter-v1/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/enuGamerBoy/Auto-Filter-v1)   
+[![Contributors](https://img.shields.io/github/contributors/enuGamerBoy/Auto-Filter-v1?style=flat-square&color=green)](https://github.com/enuGamerBoy/Auto-Filter-v1/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/enuGamerBoy/Auto-Filter-v1/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/enuGamerBoy/Auto-Filter-v1.svg)](https://stars.medv.io/enuGamerBoy/Auto-Filter-v1)
+
+  
   <a href="https://github.com/SenuGamerBoy/Auto-Filter-v1/fork">
     <img src="https://img.shields.io/github/forks/SenuGamerBoy/Auto-Filter-v1?label=Fork&style=social">
 
