@@ -1,7 +1,7 @@
-# Adv Auto Filter Bot V2
+# Auto Filter V1 By @SenuGamerBoy
 
 <p align="center">
-  <a href="https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/SenuGamerBoy/Auto-Filter-v1/stargazers">
     <img src="https://img.shields.io/github/stars/SenuGamerBoy/Auto-Filter-v1?style=social">
 
   </a>
