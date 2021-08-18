@@ -16,10 +16,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/SenuGamerBoy/Auto-Filter-v1/blob/main/LICENSE)
 
-  
-  <a href="https://github.com/SenuGamerBoy/Auto-Filter-v1/fork">
-    <img src="https://img.shields.io/github/forks/SenuGamerBoy/Auto-Filter-v1?label=Fork&style=social">
-
   </a>  
 </p>
 
