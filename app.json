@@ -1,0 +1,46 @@
+{
+    "name": "Filter Boy V1",
+    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding @SenuGamerBoy",
+    "logo": "https://telegra.ph/file/a8ceaa6c9df0f11e7d4e1.jpg",
+    "keywords": [
+        "Auto",
+        "Filter",
+        "Mongo DB"
+    ],
+    "website": "https://github.com/SenuGamerBoy",
+    "repository": "https://github.com/SenuGamerBoy/Auto-Filter-v1",
+    "success_url": "https://telegram.dog/senuinfinity",
+    "env": {
+        "APP_ID": {
+            "description": "vediode thaye und athilude edukaam",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "vediode thaye und athilude edukaam",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "vediode thaye und athilude edukaam",
+            "value": ""
+        },
+        "DB_URI": {
+            "description": "vediode thaye und athilude edukaam",
+            "value": ""
+        },
+        "USER_SESSION": {
+            "description": "vediode thaye und athilude edukaam",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
