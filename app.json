@@ -1,6 +1,6 @@
 {
     "name": "Filter Boy V1",
-    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding @SenuGamerBoy",
+    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding @SenuGamerBoy ( Sri Lankan Best Filterbot",
     "logo": "https://telegra.ph/file/a8ceaa6c9df0f11e7d4e1.jpg",
     "keywords": [
         "Auto",
@@ -12,23 +12,23 @@
     "success_url": "https://telegram.dog/senuinfinity",
     "env": {
         "APP_ID": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "Your API Hash From my.telegram.org or @UseTGXBot 🧐",
             "value": ""
         },
         "API_HASH": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "Your API Hash From my.telegram.org or @UseTGXBot 🧐",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "You Bot Token From @BotFather 😏",
             "value": ""
         },
         "DB_URI": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "Your Mongo DB URL Obtained From mongodb.com  🔍",
             "value": ""
         },
         "USER_SESSION": {
-            "description": "vediode thaye und athilude edukaam",
+            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot  🥰",
             "value": ""
         }
     },
