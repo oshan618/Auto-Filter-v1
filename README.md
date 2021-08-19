@@ -23,7 +23,7 @@ __This Is Just An Simple Advance Auto Filter Bot Complete Original written Versi
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
-How To Make Tutorial  [View](https://youtu.be/fkRjXMYPaxc)
+How To Developy This Bot Tutorial - [View](https://youtu.be/fkRjXMYPaxc)
 
 ## Usage
 
